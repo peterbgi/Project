@@ -2,7 +2,7 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
-### Used VueRouter, Flexbox, CssGrid, MediaQery, Tailwindcss
+### Used VueRouter, Flexbox, CssGrid, MediaQery, Tailwindcss and Vitest
 
 ## Recommended IDE Setup
 
